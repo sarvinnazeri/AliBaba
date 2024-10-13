@@ -1,0 +1,21 @@
+/* styles.css */
+.peer:focus ~ label,
+.peer:not(:placeholder-shown) ~ label {
+  top: -10px;
+  left: 10px;
+  color: #6b7280; /* Tailwind's blue-500 */
+  font-size: 0.75rem; /* Tailwind's text-xs */
+}
+
+.peer-placeholder-shown ~ label {
+  top: 0.5rem;
+  left: 0.5rem;
+  color: #6b7280; /* Tailwind's gray-500 */
+  font-size: 1rem; /* Tailwind's text-base */
+}
+
+
+.swiper-container {
+  overflow-x: scroll;
+  scroll-behavior: smooth;
+}
