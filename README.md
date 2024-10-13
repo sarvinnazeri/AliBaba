@@ -4,7 +4,7 @@
 
 
 
-- [Demo Project]([https://ali-baba-hazel.vercel.app/])
+- [Demo Project](https://ali-baba-hazel.vercel.app/)
   
 - Developed by sarvin nazeri
 
